@@ -2,8 +2,7 @@
 
 I'm currently a Data Scientist @ Asurion. This space is for showcasing skills in EDA/Trend Finding, modeling, and visualizations.
 
-![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white) LinkedIn]([https://www.linkedin.com/](https://www.linkedin.com/in/raymondlucio/))
-
+[![Linkedin]([https://i.stack.imgur.com/gVE0j.png](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)) LinkedIn](https://www.linkedin.com/in/raymondlucio/)
 
 <!--
 **ray-lucio/ray-lucio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
