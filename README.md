@@ -2,7 +2,8 @@
 
 I'm currently a Data Scientist @ Asurion. This space is for showcasing skills in EDA/Trend Finding, modeling, and visualizations.
 
-[![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-blue?style=social&logo=Linkedin&logoColor=blue&link=https://www.linkedin.com/in/raymondlucio/)]((https://www.linkedin.com/in/raymondlucio/))
+[![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-blue?style=social&logo=Linkedin&logoColor=blue&link=https://www.linkedin.com/in/raymondlucio/)](https://www.linkedin.com/in/raymondlucio/)
+
 
 
 <!--
